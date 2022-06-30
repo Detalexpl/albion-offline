@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Użytkownik1\source\repos\albion_offline64\albion_offline64\main.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  albion_offline64.vcxproj -> C:\Users\Użytkownik1\source\repos\albion_offline64\x64\Debug\albion_offline64.exe
